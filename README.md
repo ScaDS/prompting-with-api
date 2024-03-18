@@ -8,6 +8,6 @@ This jupyter-based and voilá-ready prompting app gives the ability to use an ap
 * ```create venv (windows: python -m venv prompting-venv)```
 * ```activate venv (windows: prompting-venv/scripts/activate)```
 * ```pip install -r requirements.txt```
-* in terminal type ```voila prompting_ui-beautified.ipynb```
+* in terminal type ```voila prompting_ui-beautified.ipynb``` for text2text or ```voila image-gen_ui-beautified.ipynb``` for text2img
 
 Attention: you need an OpenAI API Key that is set correctly as an environment variable (do it manually!), see: ```https://platform.openai.com/docs/quickstart?context=python```
